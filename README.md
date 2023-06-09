@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there this is Abdullah 👋
 - 🔭 I’m currently student of Data Science at FAST-NU.
 - 🌱 I’m a C++ programmer
 - 🔭 I’m currently learning Python
