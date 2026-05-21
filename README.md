@@ -158,22 +158,6 @@ graph LR
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd84&theme=tokyonight" width="99%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd84&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abd84&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abd84&theme=tokyonight" width="32%"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
