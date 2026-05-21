@@ -10,16 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: abd84
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            dist/ocean.gif?palette=ocean&columns=40
             dist/github-contribution-grid-snake.svg?palette=ocean&columns=40
 
       - uses: EndBug/add-and-commit@v9

@@ -1,139 +1,333 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abd84/abd84/main/assets/hero-banner.png" width="100%" alt="Abdullah Naeem - AI Engineer" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://abd84.github.io/abd84/"><img src="https://img.shields.io/badge/OPEN_AI_LAB_DASHBOARD-00f5d4?style=for-the-badge&labelColor=0a0e17&color=000000" alt="Dashboard" /></a>
-  <a href="https://www.linkedin.com/in/abdnaeem84/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/urboyabdlla"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/abd84/Portfolio-Abdullah-Naeem"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HERO HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abd84&label=Profile+Views&color=00f5d4&style=flat-square" alt="Views" />
-  <img src="https://img.shields.io/badge/FAST-Pakistan-0a0e17?style=flat-square&labelColor=6366f1&color=e2e8f0" alt="FAST" />
-  <img src="https://img.shields.io/badge/Focus-Healthcare+AI-0a0e17?style=flat-square&labelColor=00f5d4&color=000" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Shipping+Products-0a0e17?style=flat-square&labelColor=22c55e&color=fff" alt="Status" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0f1f38,70:102040,100:0D1117&height=320&section=header&text=ABDULLAH%20NAEEM&fontColor=00FFA3&fontSize=88&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Neural%20Networks%20%E2%80%A2%20LLM%20Security&descColor=7C8FA6&descSize=18&descAlignY=63" />
+
+<br/>
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1200&color=00FFA3&center=true&vCenter=true&width=720&height=60&lines=Building+Healthcare+AI+that+saves+lives;Computer+Vision+%26+Deep+Learning+Engineer;Federated+Learning+Researcher+%F0%9F%8C%90;LLM+Security+%26+Adversarial+AI+Research;Shipping+Real+AI+Products+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social Links -->
+<a href="https://linkedin.com/in/abdnaeem84">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://twitter.com/urboyabdlla">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>&nbsp;
+<a href="https://abd84.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>&nbsp;
+<a href="mailto:abdnaeem84@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile metrics -->
+![Profile Views](https://komarev.com/ghpvc/?username=abd84&style=for-the-badge&color=00FFA3&labelColor=0D1117&label=PROFILE+VIEWS)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/abd84?style=for-the-badge&color=A855F7&labelColor=0D1117&logo=github&label=FOLLOWERS)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/abd84?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github&label=STARS)
+
+</div>
 
 ---
 
-### About
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       IDENTITY                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-**Abdullah Naeem** builds production-grade AI systems — from **multimodal medical diagnosis** and **federated learning** to **speech NLP** and **LLM security research**. Currently shipping **AquireIQ** and **StutterNet**.
+## ⚡ Identity
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
+# neural_profile.py
+
 class AbdullahNaeem:
-    role     = "AI & Data Science Engineer"
-    location = "Pakistan"
-    stack    = ["PyTorch", "TensorFlow", "FastAPI", "TypeScript"]
-    building = ["AquireIQ", "StutterNet", "AlzFed"]
+    """
+    AI Engineer & Researcher shipping
+    products from the heart of Pakistan.
+    """
+    role       = "AI Engineer & Researcher"
+    location   = "Lahore, Pakistan 🇵🇰"
+    university = "FAST NUCES — Data Science"
+
+    building = [
+        "Multimodal Medical Diagnosis AI",
+        "Federated Learning for Healthcare",
+        "Stuttering Detection NLP Models",
+        "LLM Security & Red-Teaming Tools",
+        "Computer Vision Systems at Scale",
+    ]
+
+    currently  = "Shipping AI products that matter"
+    open_to    = ["Research", "Engineering", "Collabs"]
+
+    fun_fact = (
+        "Built federated learning for "
+        "Alzheimer's detection across "
+        "medical institutions 🧬"
+    )
 ```
 
----
+</td>
+<td valign="top" width="45%">
 
-### Neural systems overview
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=A855F7&count_private=true&include_all_commits=true&border_radius=10&rank_icon=percentile"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abd84/abd84/main/assets/neural-pulse.png" width="100%" alt="Neural network visualization" />
-</p>
-
----
-
-### Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f5d4&text_color=e2e8f0&icon_color=8b5cf6&ring_color=00f5d4&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abd84&theme=dark&hide_border=true&background=00000000&stroke=30363d&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abd84&theme=react&hide_border=true&bg_color=0a0e17&color=00f5d4&line=8b5cf6&point=ff6b6b&area=true&height=280" alt="Contribution graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd84&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f5d4&text_color=e2e8f0&langs_count=8" alt="Top languages" />
-</p>
-
----
-
-### Research focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer_Vision-30%25-00f5d4?style=for-the-badge&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Healthcare_AI-25%25-8b5cf6?style=for-the-badge&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/NLP_and_Speech-20%25-6366f1?style=for-the-badge&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/LLM_Security-15%25-ff6b6b?style=for-the-badge&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/MLOps-10%25-fbbf24?style=for-the-badge&labelColor=0a0e17" />
-</p>
-
----
-
-### ML pipeline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abd84/abd84/main/assets/ml-pipeline.png" width="100%" alt="ML pipeline" />
-</p>
-
----
-
-### Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikit-learn,fastapi,react,ts,docker,kubernetes,git,githubactions,mongodb,postgres,aws,linux,jupyter&perline=8&theme=dark" alt="Tech stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-00f5d4?style=flat-square&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Adversarial_ML-ff6b6b?style=flat-square&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Federated_Learning-8b5cf6?style=flat-square&labelColor=0a0e17" />
-</p>
-
----
-
-### Featured projects
-
-| | Project | Description |
-|:-:|---------|-------------|
-| 🚀 | [**AquireIQ**](https://github.com/abd84/AquireIQ) | Intelligent acquisition & analytics platform |
-| 🎙️ | [**StutterNet**](https://github.com/abd84/StutterNet-) | Speech disfluency detection with deep learning |
-| 🧠 | [**AlzFed**](https://github.com/abd84/AlzFed) | Federated learning for Alzheimer's research |
-| 📄 | [**ai-pdf-editor**](https://github.com/abd84/ai-pdf-editor) | Humanized AI document editing |
-| 🦴 | [**Osteoporosis AI**](https://github.com/abd84/Multi-Modal-multi-class-Osteoperosis-Osteopenia-Diagnosis-with-Hybrid-Fusion) | Multimodal imaging + clinical fusion |
-| 🛡️ | [**Adversarial ResNet**](https://github.com/abd84/Adversarial-ResNet-Resilience-Gradient-Perturbation-Fidelity-Analysis-) | FGSM/PGD robustness research |
-| 💉 | [**LLM Injection**](https://github.com/abd84/Universal-Prompt-Injection-for-LLMs-Adversarial-Evasion-Response-Manipulation-) | Prompt injection & evasion study |
-| ⭐ | [**Nail Detection**](https://github.com/abd84/Nail-detection-tensor-flow-) | TensorFlow computer vision |
-
-<p align="center">
-  <a href="https://github.com/abd84?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-0a0e17?style=for-the-badge&logo=github&labelColor=00f5d4" /></a>
-</p>
-
----
-
-<details>
-<summary><b>3D contribution card & snake animation</b> (auto-generated)</summary>
 <br/>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd84&theme=github_dark" width="90%" alt="Profile details" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abd84/abd84/main/dist/ocean.gif" width="100%" alt="Contribution snake" />
-</p>
-<p align="center"><sub>Run <b>Actions</b> workflows once: <i>GitHub Profile 3D Contrib</i> and <i>Generate Snake</i></sub></p>
-</details>
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=abd84&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFA3&fire=A855F7&currStreakLabel=00FFA3&sideLabels=7C8FA6&sideNums=C9D1D9&dates=7C8FA6&border_radius=10"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Connect
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   RESEARCH DISTRIBUTION                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  Open to <strong>research collaborations</strong>, <strong>AI engineering roles</strong>, and <strong>product partnerships</strong>.<br/><br/>
-  <a href="https://www.linkedin.com/in/abdnaeem84/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" /></a>
-  <a href="https://abd84.github.io/abd84/"><img src="https://img.shields.io/badge/Dashboard-Launch-00f5d4?style=for-the-badge&labelColor=0a0e17" /></a>
-</p>
+## 🔬 Research Distribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abd84/abd84/main/assets/hero-banner.png" width="600" alt="Footer" />
-</p>
+<div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'darkMode': true, 'background': '#0D1117', 'primaryColor': '#00FFA3', 'edgeLabelBackground': '#0D1117', 'pie1': '#00FFA3', 'pie2': '#A855F7', 'pie3': '#58A6FF', 'pie4': '#FF6B6B', 'pie5': '#F59E0B'}}}%%
+pie title Research & Engineering Focus
+    "Computer Vision" : 30
+    "Healthcare AI" : 25
+    "NLP & Speech" : 20
+    "LLM Security" : 15
+    "MLOps & Infra" : 10
+```
+
+![CV](https://img.shields.io/badge/Computer%20Vision-30%25-00FFA3?style=flat-square&labelColor=0D1117)&nbsp;
+![Healthcare](https://img.shields.io/badge/Healthcare%20AI-25%25-A855F7?style=flat-square&labelColor=0D1117)&nbsp;
+![NLP](https://img.shields.io/badge/NLP%20%26%20Speech-20%25-58A6FF?style=flat-square&labelColor=0D1117)&nbsp;
+![LLM Security](https://img.shields.io/badge/LLM%20Security-15%25-FF6B6B?style=flat-square&labelColor=0D1117)&nbsp;
+![MLOps](https://img.shields.io/badge/MLOps-10%25-F59E0B?style=flat-square&labelColor=0D1117)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  TECHNICAL ARCHITECTURE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏗️ AI Architecture
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': {'darkMode': true, 'background': '#0D1117', 'primaryColor': '#00FFA3', 'primaryTextColor': '#0D1117', 'primaryBorderColor': '#00FFA3', 'lineColor': '#A855F7', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f1f38', 'edgeLabelBackground': '#0D1117', 'nodeTextColor': '#C9D1D9'}}}%%
+graph LR
+    CORE([AI Core])
+
+    CORE --> ML([PyTorch / TF])
+    CORE --> LLM([LangChain / RAG])
+    CORE --> CV([OpenCV / YOLO])
+
+    ML --> H1([Medical Imaging])
+    ML --> H2([Federated Learning])
+    LLM --> H3([RAG Pipelines])
+    LLM --> H4([LLM Red-Teaming])
+    CV --> H5([Disease Detection])
+    CV --> H6([Real-Time Tracking])
+
+    H1 --> OUT1([Diagnosis AI])
+    H2 --> OUT2([AlzFed])
+    H3 --> OUT3([AquireIQ])
+    H4 --> OUT4([LLM Security])
+    H5 --> OUT5([Nail & Bone AI])
+    H6 --> OUT6([StutterNet])
+```
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TECH ARSENAL                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**[ AI & Machine Learning ]**
+
+[![AI ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,python&theme=dark&perline=10)](https://skillicons.dev)
+
+**[ Backend & Infrastructure ]**
+
+[![Backend Stack](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis&theme=dark&perline=10)](https://skillicons.dev)
+
+**[ Frontend & Interfaces ]**
+
+[![Frontend Stack](https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,html&theme=dark&perline=10)](https://skillicons.dev)
+
+**[ DevOps & Cloud ]**
+
+[![DevOps Stack](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux&theme=dark&perline=10)](https://skillicons.dev)
+
+**[ Tools & Editors ]**
+
+[![Tools Stack](https://skillicons.dev/icons?i=git,github,vscode,jupyter,bash&theme=dark&perline=10)](https://skillicons.dev)
+
+<br/>
+
+<!-- Specialized tech badges -->
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
+![RAG](https://img.shields.io/badge/RAG_Systems-00FFA3?style=for-the-badge&logo=openai&logoColor=black)&nbsp;
+![Federated](https://img.shields.io/badge/Federated_Learning-A855F7?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)&nbsp;
+![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   FEATURED PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Status |
+|:--------|:------------|:------|:------:|
+| **[AquireIQ](https://github.com/abd84/AquireIQ)** | AI intelligence platform with RAG pipeline & smart data acquisition | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FFA3) ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=A855F7) | ![Active](https://img.shields.io/badge/Active-00FFA3?style=flat-square) |
+| **[StutterNet](https://github.com/abd84/StutterNet)** | Deep learning stuttering detection for real-time speech therapy assistance | ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21F) | ![Research](https://img.shields.io/badge/Research-A855F7?style=flat-square) |
+| **[AlzFed](https://github.com/abd84/AlzFed)** | Privacy-preserving Alzheimer's detection via federated learning across institutions | ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![FL](https://img.shields.io/badge/Federated-0D1117?style=flat-square&logo=amazonaws&logoColor=58A6FF) | ![Research](https://img.shields.io/badge/Research-A855F7?style=flat-square) |
+| **[ai-pdf-editor](https://github.com/abd84/ai-pdf-editor)** | Intelligent PDF editor with AI content extraction & RAG capabilities | ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FFA3) | ![Active](https://img.shields.io/badge/Active-00FFA3?style=flat-square) |
+| **[Osteoporosis AI](https://github.com/abd84/Osteoporosis-AI)** | CNN-based X-ray analysis with GRAD-CAM for bone density assessment | ![TF](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=5C3EE8) | ![Complete](https://img.shields.io/badge/Complete-58A6FF?style=flat-square) |
+| **[Adversarial ResNet](https://github.com/abd84/Adversarial-ResNet)** | FGSM/PGD adversarial attacks and defense mechanisms for ResNet | ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C) | ![Research](https://img.shields.io/badge/Research-A855F7?style=flat-square) |
+| **[LLM Injection](https://github.com/abd84/LLM-Injection)** | Prompt injection taxonomy & defense framework for production LLMs | ![Security](https://img.shields.io/badge/AI_Security-0D1117?style=flat-square&logo=shieldsdotio&logoColor=FF6B6B) | ![Research](https://img.shields.io/badge/Research-A855F7?style=flat-square) |
+| **[Nail Detection](https://github.com/abd84/Nail-Detection)** | Real-time nail condition CV detection for non-invasive medical diagnostics | ![YOLO](https://img.shields.io/badge/YOLO-0D1117?style=flat-square&logo=opencv&logoColor=00FFA3) | ![Complete](https://img.shields.io/badge/Complete-58A6FF?style=flat-square) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=A855F7&count_private=true&include_all_commits=true&border_radius=10&rank_icon=percentile"/>
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd84&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&border_radius=10&langs_count=8"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION ACTIVITY                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abd84&theme=react-dark&bg_color=0D1117&color=00FFA3&line=00FFA3&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Timeline&border_radius=10"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               3D CONTRIBUTION GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph — run the workflow to generate"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB TROPHIES                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=abd84&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                CONTRIBUTION SNAKE                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="./dist/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   LET'S CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 💬 Let's Connect
+
+<div align="center">
+
+> *"Building AI systems that bridge the gap between research and real-world healthcare impact."*
+
+<br/>
+
+**Open to:**
+
+![Research](https://img.shields.io/badge/Research_Collaboration-00FFA3?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Engineering](https://img.shields.io/badge/AI_Engineering_Roles-A855F7?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Partnerships](https://img.shields.io/badge/Product_Partnerships-58A6FF?style=for-the-badge&labelColor=0D1117)&nbsp;
+![OpenSource](https://img.shields.io/badge/Open_Source-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FF6B6B)
+
+<br/>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0f1f38,100:0D1117&height=130&section=footer&text=Let%27s%20build%20the%20future%20of%20AI&fontColor=7C8FA6&fontSize=20&animation=twinkling&fontAlignY=70"/>
+
+</div>
