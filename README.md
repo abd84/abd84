@@ -1,14 +1,38 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:0d1117&height=360&section=header&text=ABDULLAH%20NAEEM&fontColor=FFFFFF&fontSize=90&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Neural%20Networks%20%E2%80%A2%20LLM%20Security&descColor=94A3B8&descSize=20&descAlignY=60" />
+```
+  ╭──────────────────────────────────────────────────────────────────╮
+  │                                                                  │
+  │   whoami                                                         │
+  │   ──────────────────────────────────────────────────────────    │
+  │   Abdullah Naeem  ·  AI Engineer & Researcher                    │
+  │   FAST NUCES, Data Science  ·  Lahore, Pakistan                 │
+  │                                                                  │
+  │   cat /focus                                                     │
+  │   ──────────────────────────────────────────────────────────    │
+  │   Healthcare AI    Computer Vision    Federated Learning         │
+  │   LLM Security     Speech NLP         MLOps & Infra             │
+  │                                                                  │
+  │   ls ~/stack                                                     │
+  │   ──────────────────────────────────────────────────────────    │
+  │   PyTorch · TensorFlow · HuggingFace · LangChain · OpenCV       │
+  │   FastAPI · React · TypeScript · Docker · Kubernetes · AWS      │
+  │                                                                  │
+  │   echo $STATUS                                                   │
+  │   ──────────────────────────────────────────────────────────    │
+  │   "Shipping AI that matters — from Pakistan to the world"       │
+  │                                                                  │
+  │   cat contact.txt                                                │
+  │   ──────────────────────────────────────────────────────────    │
+  │   github.com/abd84            abdullahnaeem884@gmail.com        │
+  │   linkedin.com/in/abdnaeem84  abdullah-naeem-portfolio.vercel.app│
+  │                                                                  │
+  ╰──────────────────────────────────────────────────────────────────╯
+```
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=700&height=55&lines=Building+Healthcare+AI+that+saves+lives;Computer+Vision+%26+Deep+Learning+Engineer;Federated+Learning+Researcher;LLM+Security+%26+Adversarial+AI+Research;Shipping+Real+AI+Products+from+Pakistan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=680&height=50&lines=Building+Healthcare+AI+that+saves+lives;Computer+Vision+%26+Deep+Learning+Engineer;Federated+Learning+Researcher;LLM+Security+%26+Adversarial+AI+Research;Shipping+Real+AI+Products+from+Pakistan)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,24 +42,22 @@
 <a href="https://twitter.com/urboyabdlla">
   <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>&nbsp;
-<a href="https://abd84.github.io">
+<a href="https://abdullah-naeem-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>&nbsp;
-<a href="mailto:abdnaeem84@gmail.com">
+<a href="mailto:abdullahnaeem884@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abd84&style=for-the-badge&color=6366F1&labelColor=0D1117&label=PROFILE+VIEWS)&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/abd84?style=for-the-badge&color=818CF8&labelColor=0D1117&logo=github&label=FOLLOWERS)&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/abd84?style=for-the-badge&color=A78BFA&labelColor=0D1117&logo=github&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=abd84&style=for-the-badge&color=6366F1&labelColor=0D1117&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## ⚡ Identity
+## Identity
 
 <table>
 <tr>
@@ -50,7 +72,7 @@ class AbdullahNaeem:
     products from the heart of Pakistan.
     """
     role       = "AI Engineer & Researcher"
-    location   = "Lahore, Pakistan 🇵🇰"
+    location   = "Lahore, Pakistan"
     university = "FAST NUCES — Data Science"
 
     building = [
@@ -67,7 +89,7 @@ class AbdullahNaeem:
     fun_fact = (
         "Built federated learning for "
         "Alzheimer's detection across "
-        "medical institutions 🧬"
+        "multiple medical institutions"
     )
 ```
 
@@ -86,7 +108,7 @@ class AbdullahNaeem:
 
 ---
 
-## 🔬 Research Distribution
+## Research Distribution
 
 <div align="center">
 
@@ -110,7 +132,7 @@ pie title Research & Engineering Focus
 
 ---
 
-## 🏗️ AI Architecture
+## AI Architecture
 
 <div align="center">
 
@@ -139,7 +161,7 @@ graph LR
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -169,14 +191,13 @@ graph LR
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
 ![RAG](https://img.shields.io/badge/RAG_Systems-6366F1?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![Federated](https://img.shields.io/badge/Federated_Learning-A78BFA?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)&nbsp;
-![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -195,19 +216,23 @@ graph LR
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&icon_color=A78BFA&border_radius=10"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=C9D1D9&border_radius=10&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd84&theme=tokyonight" width="99%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd84&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abd84&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abd84&theme=tokyonight" width="32%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -217,7 +242,7 @@ graph LR
 
 ---
 
-## 🌐 3D Contribution Graph
+## 3D Contribution Graph
 
 <div align="center">
 
@@ -227,7 +252,7 @@ graph LR
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -237,7 +262,7 @@ graph LR
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -251,15 +276,13 @@ graph LR
 
 ---
 
-## 💬 Let's Connect
+## Connect
 
 <div align="center">
 
 > *"Building AI systems that bridge the gap between research and real-world healthcare impact."*
 
 <br/>
-
-**Open to:**
 
 ![Research](https://img.shields.io/badge/Research_Collaboration-6366F1?style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Engineering](https://img.shields.io/badge/AI_Engineering_Roles-A78BFA?style=for-the-badge&labelColor=0D1117)&nbsp;
@@ -270,6 +293,6 @@ graph LR
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:0d1117&height=130&section=footer&text=Let%27s%20build%20the%20future%20of%20AI&fontColor=6B7280&fontSize=18&animation=twinkling&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e1b4b,100:0d1117&height=120&section=footer&text=Let%27s%20build%20the%20future%20of%20AI&fontColor=4B5563&fontSize=16&animation=twinkling&fontAlignY=72"/>
 
 </div>
