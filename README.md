@@ -1,5 +1,5 @@
 <a href="https://github.com/abd84">
-  <img src="./dark_mode.svg" alt="Abdullah Naeem's GitHub Profile" width="985"/>
+  <img src="./hero.png" alt="Abdullah Naeem's GitHub Profile" width="985"/>
 </a>
 
 ---
