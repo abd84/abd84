@@ -158,16 +158,6 @@ graph LR
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abd84&theme=react-dark&bg_color=0D1117&color=818CF8&line=6366F1&point=A78BFA&area=true&hide_border=true&custom_title=Daily%20Contributions%20%E2%80%94%20Last%2012%20Months&border_radius=10&days=365"/>
-
-</div>
-
----
-
 ## 3D Contribution Graph
 
 <div align="center">
