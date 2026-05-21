@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" role="img" aria-label="ML pipeline">
+  <rect width="900" height="140" fill="#0f172a" rx="14"/>
+  <g font-family="ui-monospace, monospace" font-size="11" fill="#94a3b8">
+    <rect x="30" y="45" width="120" height="50" rx="10" fill="#1e293b" stroke="#00f5d4" stroke-width="1.5"/>
+    <text x="90" y="75" text-anchor="middle" fill="#e2e8f0">RAW DATA</text>
+    <rect x="190" y="45" width="120" height="50" rx="10" fill="#1e293b" stroke="#8b5cf6" stroke-width="1.5"/>
+    <text x="250" y="75" text-anchor="middle" fill="#e2e8f0">FEATURES</text>
+    <rect x="350" y="45" width="120" height="50" rx="10" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="410" y="75" text-anchor="middle" fill="#e2e8f0">TRAIN</text>
+    <rect x="510" y="45" width="120" height="50" rx="10" fill="#1e293b" stroke="#22d3ee" stroke-width="1.5"/>
+    <text x="570" y="75" text-anchor="middle" fill="#e2e8f0">EVAL</text>
+    <rect x="670" y="45" width="120" height="50" rx="10" fill="#1e293b" stroke="#ff6b6b" stroke-width="1.5"/>
+    <text x="730" y="75" text-anchor="middle" fill="#e2e8f0">DEPLOY</text>
+  </g>
+  <g stroke="#334155" stroke-width="2" marker-end="url(#arrow)">
+    <line x1="150" y1="70" x2="190" y2="70"/><line x1="310" y1="70" x2="350" y2="70"/>
+    <line x1="470" y1="70" x2="510" y2="70"/><line x1="630" y1="70" x2="670" y2="70"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#64748b"/>
+    </marker>
+  </defs>
+  <rect x="30" y="45" width="120" height="50" rx="10" fill="none" stroke="#00f5d4" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="350" y="45" width="120" height="50" rx="10" fill="none" stroke="#f59e0b" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.9;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="670" y="45" width="120" height="50" rx="10" fill="none" stroke="#ff6b6b" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0.9;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="125" text-anchor="middle" fill="#475569" font-family="monospace" font-size="10">ETL ’ TRANSFORM ’ OPTIMIZE ’ MONITOR</text>
+</svg>

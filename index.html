@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abdullah Naeem · AI Lab Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Syne:wght@400;600;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="dashboard.css" />
+</head>
+<body>
+  <canvas id="canvas-bg" aria-hidden="true"></canvas>
+  <div class="scanlines" aria-hidden="true"></div>
+  <div class="wrap">
+    <header>
+      <h1>NEURAL LAB · COMMAND CENTER</h1>
+      <p>Abdullah Naeem · AI &amp; Data Science Engineer · Pakistan</p>
+      <div class="badge-row" id="badges"></div>
+      <a class="cta" href="https://github.com/abd84">← Back to GitHub Profile</a>
+    </header>
+    <div class="grid">
+      <div class="panel span-4">
+        <h2>// Repositories</h2>
+        <div class="kpi"><span id="repo-count">0</span>+<small>public research &amp; product repos</small></div>
+        <div class="bar-track"><div class="bar-fill cyan" data-width="78"></div></div>
+      </div>
+      <div class="panel span-4">
+        <h2>// Focus domains</h2>
+        <div class="kpi">6<small>active AI verticals</small></div>
+        <div class="bar-track"><div class="bar-fill coral" data-width="92"></div></div>
+      </div>
+      <div class="panel span-4">
+        <h2>// 2026 velocity</h2>
+        <div class="kpi">85<small>% commits on AquireIQ &amp; StutterNet</small></div>
+        <div class="bar-track"><div class="bar-fill gold" data-width="85"></div></div>
+      </div>
+      <div class="panel span-8">
+        <h2>// Model capability matrix</h2>
+        <div id="metrics"></div>
+      </div>
+      <div class="panel span-4">
+        <h2>// Live terminal</h2>
+        <div class="terminal" id="terminal"></div>
+      </div>
+      <div class="panel span-12">
+        <h2>// Tech orbit — 3D stack</h2>
+        <div class="orbit" id="orbit"></div>
+      </div>
+      <div class="panel span-12">
+        <h2>// Flagship systems</h2>
+        <div id="projects"></div>
+      </div>
+    </div>
+    <footer>
+      <p>Built for <a href="https://github.com/abd84">@abd84</a> · FAST Pakistan ·
+        <a href="https://www.linkedin.com/in/abdnaeem84/">LinkedIn</a></p>
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>

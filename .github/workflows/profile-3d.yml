@@ -1,0 +1,36 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update 3D profile card
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: github-profile-3d-contrib/github-profile-3d-contrib@v1
+        with:
+          username: abd84
+          config: |
+            cbd_all_languages: on
+            show_time: on
+            show_total_contributions: on
+            show_legend: on
+            show_icons: on
+            show_rank: on
+            background_color: 0d1117
+            border_radius: 12
+            text_color: c9d1d9
+          output: profile-3d-contrib
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update 3D contribution card"
+          add: "profile-3d-contrib/*"
+          default_author: github_actions
