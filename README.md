@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./Screenshot 2026-05-21 at 11.29.11 PM.png" alt="Abdullah Naeem's GitHub Profile" width="985"/>
-</div>
+<a href="https://github.com/abd84">
+  <img src="./dark_mode.svg" alt="Abdullah Naeem's GitHub Profile" width="985"/>
+</a>
 
 ---
 
