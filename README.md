@@ -4,12 +4,16 @@
 <!--                    ANIMATED HERO HEADER                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0f1f38,70:102040,100:0D1117&height=320&section=header&text=ABDULLAH%20NAEEM&fontColor=00FFA3&fontSize=88&animation=twinkling&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Neural%20Networks%20%E2%80%A2%20LLM%20Security&descColor=7C8FA6&descSize=18&descAlignY=63" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=400&section=header&text=ABDULLAH%20NAEEM&fontColor=FFFFFF&fontSize=95&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Neural%20Networks%20%E2%80%A2%20LLM%20Security&descColor=A8F0E8&descSize=22&descAlignY=58&stroke=000000&strokeWidth=2" />
+
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/136109231?v=4" width="130" alt="Abdullah Naeem"/>
 
 <br/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=1200&color=00FFA3&center=true&vCenter=true&width=720&height=60&lines=Building+Healthcare+AI+that+saves+lives;Computer+Vision+%26+Deep+Learning+Engineer;Federated+Learning+Researcher+%F0%9F%8C%90;LLM+Security+%26+Adversarial+AI+Research;Shipping+Real+AI+Products+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1200&color=00FFA3&center=true&vCenter=true&width=750&height=65&lines=Building+Healthcare+AI+that+saves+lives;Computer+Vision+%26+Deep+Learning+Engineer;Federated+Learning+Researcher;LLM+Security+%26+Adversarial+AI+Research;Shipping+Real+AI+Products+from+Pakistan)](https://git.io/typing-svg)
 
 <br/>
 
@@ -81,11 +85,11 @@ class AbdullahNaeem:
 </td>
 <td valign="top" width="45%">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=A855F7&count_private=true&include_all_commits=true&border_radius=10&rank_icon=percentile"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=A855F7&count_private=true&border_radius=10"/>
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=abd84&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FFA3&fire=A855F7&currStreakLabel=00FFA3&sideLabels=7C8FA6&sideNums=C9D1D9&dates=7C8FA6&border_radius=10"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=abd84&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFA3&fire=A855F7&currStreakLabel=00FFA3&border_radius=10"/>
 
 </td>
 </tr>
@@ -233,10 +237,10 @@ graph LR
 <table>
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=A855F7&count_private=true&include_all_commits=true&border_radius=10&rank_icon=percentile"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=abd84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&icon_color=A855F7&count_private=true&border_radius=10"/>
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd84&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&border_radius=10&langs_count=8"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=C9D1D9&border_radius=10&langs_count=8"/>
 </td>
 </tr>
 </table>
